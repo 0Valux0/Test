@@ -38,7 +38,7 @@ body {
 
 /* Open button */
 .open-btn {
-  position: absolute;
+  right: absolute;
   top: 20px;
   right: 20px;
   background-color: #111;
