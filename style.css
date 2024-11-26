@@ -16,6 +16,7 @@ body {
 .topnav .open-btn {
   font-size: 20px;
   cursor: pointer;
+  position: right;
 }
 
 .sidenav {
