@@ -58,6 +58,7 @@ body {
   color: white;
   font-size: 30px;
   cursor: pointer;
+  position: right;
 }
 
 .sidenav-top h2 {
