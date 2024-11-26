@@ -38,7 +38,7 @@ body {
 
 /* Open button */
 .open-btn {
- width: 280px;
+    width: 280px;
     height: 100%;
     right: 0;
     position: fixed;
