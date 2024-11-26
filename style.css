@@ -38,7 +38,7 @@ body {
 
 /* Open button */
 .open-btn {
-  right: absolute;
+  position: right;
   top: 20px;
   right: 20px;
   background-color: #111;
@@ -50,7 +50,7 @@ body {
 
 /* Close button (X) */
 .close-btn {
-  position: absolute;
+  position: fixed;
   top: 20px;
   right: 20px;
   background-color: #f44336;
